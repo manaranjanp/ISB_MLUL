@@ -1,4 +1,4 @@
-This folder contains notebooks and datasets to learning distance based concepts.
+This folder contains notebooks and datasets to learn clustering concepts.
 
 ### 1. Product Segmentation
 
