@@ -10,5 +10,5 @@ This folder contains notebooks and datasets to learn clustering concepts.
 
 ### 3: Clustering Products
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manaranjanp/ISB_MLUL/blob/main/clustering/Clustering_Products_v1.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manaranjanp/ISB_MLUL/blob/main/clustering/Content_Based_Recsys_v1.ipynb)
 
