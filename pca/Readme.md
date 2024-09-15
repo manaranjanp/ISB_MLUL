@@ -8,3 +8,8 @@ This folder contains notebooks and datasets to learn dimensionality reduction co
 ### 1. Visualizing in 2D
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manaranjanp/ISB_MLUL/blob/main/pca/PCA_Visualization_2D_v1.ipynb)
+
+
+### 2. Product Recommendations using Images 
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manaranjanp/ISB_MLUL/blob/main/pca/Product%20Recommendation%20using%20PCA.ipynb)
